@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LeonKang130
+- 👋 Hi, I’m @LeonKang130. My name is Liangfu but you can call me Leon for short.
 - 👀 I’m interested in game developing and computer graphics. Contact me if you are interested in collaboration with me.
 - 🌱 I’m currently learning F# and functional programming.
 
