@@ -2,6 +2,7 @@
 - 👀 I’m interested in game developing and computer graphics. Contact me if you are interested in collaboration with me.
 - 🌱 I’m currently learning F# and functional programming.
 - 🎮 My favorite game is Desitiny 2.
+- 📰 Check out my blogs [here](https://leonkang130.github.io/).
 
 <!---
 LeonKang130/LeonKang130 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
